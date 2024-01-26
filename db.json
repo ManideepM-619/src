@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": "46b0",
+      "username": "Saissss",
+      "password": "$2a$05$4loga1ssBQcNV15Gq5UNIO3LvHdFEKSszBp1euPP2pqxzNmVkCL5m",
+      "email": "sai@gmail.com",
+      "dob": "2024-01-23"
+    },
+    {
+      "id": "ba2f",
+      "username": "Saisssss",
+      "password": "$2a$05$H5D61woFZfy1peYR2FG75etmvG91ayDq/hlWEQRTFPdNw9qKERnw2",
+      "email": "sai@gmail.com",
+      "dob": "2024-01-23"
+    },
+    {
+      "id": "6255",
+      "username": "dummy",
+      "password": "$2a$05$Vrd46E1.EfNuonLbW7Z1SuWMySiNHtmBHrFV3BIH/teO1XkiAXgjK",
+      "email": "sai@gmail.com",
+      "dob": "2024-01-30"
+    },
+    {
+      "id": "c961",
+      "username": "surya",
+      "password": "$2a$05$uCElTLjo80uJ/co54mjOTOJ8VBzsDohf.4hpMZC4dGtY8rXa1.17e",
+      "email": "sai@gmail.com",
+      "dob": "2024-01-23"
+    }
+  ]
+}
