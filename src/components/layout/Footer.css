@@ -1,0 +1,27 @@
+.footer {   background-color:black;   
+     color: white;  
+     text-align: center;
+     padding: 20px;  
+     position: fixed;
+     bottom:0;
+     width: 100%;
+    }
+
+.footer-content{
+    display: flex;
+    justify-content: space-between;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.snitch-info{
+    text-align: left;
+}
+
+.icon{
+    margin-right: 5px;
+}
+
+.copyright{
+    margin-top: 10px;
+}

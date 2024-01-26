@@ -1,0 +1,42 @@
+.container {
+    width: 100px;
+    height: 80hv;
+    background: #3b2b3b;
+    padding-top: 100px;
+  }
+   
+  .title {
+    width: 580px;
+    color: #333;
+  }
+   
+  form {
+    display:grid;
+    flex-direction: column;
+  }
+   
+  label {
+    margin-bottom: 8px;
+  }
+   
+  input {
+    padding: 10px;
+    margin-bottom: 16px;
+  }
+   
+  button {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+  }
+   
+  button:hover {
+    background-color: #0056b3;
+  }
+   
+  .link {
+    color: #007bff;
+  }
