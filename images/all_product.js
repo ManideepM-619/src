@@ -2,7 +2,7 @@ import p1_img from "./bag1.jpg";
 import p2_img from "./bag2.jpg";
 import p3_img from "./bag3.jpg";
 import p4_img from "./bag4.jpg";
-//import pic from "./p1_product.png"
+import pic from "./p1_product.png"
 // import p5_img from "./product_5.png";
 // import p6_img from "./product_6.png";
 // import p7_img from "./product_7.png";
